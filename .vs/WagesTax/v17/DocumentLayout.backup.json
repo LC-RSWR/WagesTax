@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\WagesTax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\logindialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:logindialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\wagestax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:wagestax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\taxcalccenter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:taxcalccenter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\sqlmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:sqlmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\logindialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,18 +19,24 @@
       "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:wagestax.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\logindialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:logindialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\sqlmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:sqlmanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\taxcalccenter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:taxcalccenter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\Users\\Administrator\\Desktop\\WagesTax\\sqlmanager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|solutionrelative:sqlmanager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAE3B7FC-C4DD-306D-BCF0-13BDA47649C7}|WagesTax.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.29.30133\\INCLUDE\\UTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64\\include\\QtWidgets\\qmessagebox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -55,63 +49,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "utility",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\utility",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\utility",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\utility",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\utility",
-              "ViewState": "AgIAAO4BAAAAAAAAAAAAAP4BAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-01T02:59:09.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\WagesTax\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAGAAAAAAAAAAAAA2wGwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAA2wHAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T14:03:40.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "logindialog.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\logindialog.h",
               "RelativeDocumentMoniker": "logindialog.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\WagesTax\\logindialog.h",
               "RelativeToolTip": "logindialog.h",
-              "ViewState": "AgIAACkAAAAAAAAAAAA2wBkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-30T13:34:41.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector",
-              "ViewState": "AgIAACYGAAAAAAAAAAA3wDUGAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-30T13:01:26.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "qmessagebox.h",
               "DocumentMoniker": "C:\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64\\include\\QtWidgets\\qmessagebox.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Qt\\Qt5.14.2\\5.14.2\\msvc2017_64\\include\\QtWidgets\\qmessagebox.h",
@@ -123,33 +91,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "wagestax.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\wagestax.h",
               "RelativeDocumentMoniker": "wagestax.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\WagesTax\\wagestax.h",
               "RelativeToolTip": "wagestax.h",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-30T10:22:58.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "wagestax.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\wagestax.cpp",
               "RelativeDocumentMoniker": "wagestax.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\WagesTax\\wagestax.cpp",
               "RelativeToolTip": "wagestax.cpp",
-              "ViewState": "AgIAAEoBAAAAAAAAAAAAAFcBAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAAAEsBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-30T10:22:50.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "logindialog.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\logindialog.cpp",
               "RelativeDocumentMoniker": "logindialog.cpp",
@@ -175,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "sqlmanager.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\sqlmanager.h",
               "RelativeDocumentMoniker": "sqlmanager.h",
@@ -188,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "taxcalccenter.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\WagesTax\\taxcalccenter.h",
               "RelativeDocumentMoniker": "taxcalccenter.h",

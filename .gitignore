@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs
+/.vs/WagesTax/FileContentIndex
+/.vs
+/debug
+*.tlog
+*.tlog

@@ -7,6 +7,7 @@
 #include "logindialog.h"
 #include "sqlmanager.h"
 
+
 // Qt 命名空间的开头部分
 QT_BEGIN_NAMESPACE
 namespace Ui { class WagesTax; }  // 声明 UI 类，WagesTax 用于存放界面元素
